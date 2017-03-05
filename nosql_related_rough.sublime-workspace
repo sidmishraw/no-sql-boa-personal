@@ -1,0 +1,1180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"books",
+				"books_list_res\twithstmt"
+			],
+			[
+				"url",
+				"url_string\tstatement"
+			],
+			[
+				"arch",
+				"archive_req\twithstmt"
+			],
+			[
+				"is",
+				"is_complete_manager"
+			],
+			[
+				"iscomple",
+				"is_complete_employee"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"st",
+				"start\tstatement"
+			],
+			[
+				"permut",
+				"permuted_strings"
+			],
+			[
+				"od",
+				"odd_char\tparam"
+			],
+			[
+				"permu",
+				"permute_fhalf"
+			],
+			[
+				"fir",
+				"first_half\tparam"
+			],
+			[
+				"odd",
+				"odd_char"
+			],
+			[
+				"firs",
+				"first_half"
+			],
+			[
+				"count",
+				"count_odd\tstatement"
+			],
+			[
+				"dic",
+				"dict_cache\tstatement"
+			],
+			[
+				"sta",
+				"stack_paren\tstatement"
+			],
+			[
+				"dum",
+				"dumps\tfunction"
+			],
+			[
+				"la",
+				"layer_nbr"
+			],
+			[
+				"rota",
+				"rotate_layer"
+			],
+			[
+				"lcm",
+				"lcm_a"
+			],
+			[
+				"lc",
+				"lcm_a"
+			],
+			[
+				"gc",
+				"gcd_b"
+			],
+			[
+				"gcd",
+				"gcd_list"
+			],
+			[
+				"cout",
+				"count_false\tstatement"
+			],
+			[
+				"true",
+				"True"
+			],
+			[
+				"mak",
+				"mark_all"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"s",
+				"s_copy\tstatement"
+			],
+			[
+				"e",
+				"element\tstatement"
+			],
+			[
+				"new",
+				"new_ps\tstatement"
+			],
+			[
+				"set",
+				"set_\tparam"
+			],
+			[
+				"gene",
+				"generate_permutations"
+			],
+			[
+				"zero",
+				"zero_matrix\tfunction"
+			],
+			[
+				"ze",
+				"zero_list"
+			],
+			[
+				"a",
+				"append\tfunction"
+			],
+			[
+				"__nam",
+				"__name__\tinstance"
+			],
+			[
+				"compre",
+				"compress_string\tfunction"
+			],
+			[
+				"com",
+				"compression_stack\tstatement"
+			],
+			[
+				"compressi",
+				"compression_stack\tstatement"
+			],
+			[
+				"check",
+				"check_edits\tfunction"
+			],
+			[
+				"item",
+				"items\tfunction"
+			],
+			[
+				"ac",
+				"actual_len\tstatement"
+			],
+			[
+				"str",
+				"strip"
+			],
+			[
+				"it",
+				"items\tfunction"
+			],
+			[
+				"stirn",
+				"string_list\tstatement"
+			],
+			[
+				"stin",
+				"string_list\tstatement"
+			],
+			[
+				"rifh",
+				"right_shift_2sp\tfunction"
+			],
+			[
+				"string",
+				"string_list\tstatement"
+			],
+			[
+				"sting",
+				"string_list"
+			],
+			[
+				"strin",
+				"string_list\tparam"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"chec",
+				"check_string"
+			],
+			[
+				"dict",
+				"dictionary\tparam"
+			],
+			[
+				"hash",
+				"hashvalue\tstatement"
+			],
+			[
+				"has",
+				"hashvalue\tstatement"
+			],
+			[
+				"Key",
+				"KeyError\tclass"
+			],
+			[
+				"old",
+				"oldtable\tparam"
+			],
+			[
+				"t",
+				"table\tstatement"
+			],
+			[
+				"node",
+				"nodes\tforstmt"
+			],
+			[
+				"loa",
+				"load_factor\tstatement"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"ass",
+				"assigned_to\tparam"
+			],
+			[
+				"assi",
+				"assigned_to"
+			],
+			[
+				"task",
+				"task_setter\tstatement"
+			],
+			[
+				"tas",
+				"taskId\tstatement"
+			],
+			[
+				"tak",
+				"taskId"
+			],
+			[
+				"em",
+				"empId\tparam"
+			],
+			[
+				"emp",
+				"empId"
+			],
+			[
+				"pos",
+				"postal_code\tparam"
+			],
+			[
+				"po",
+				"postal_code"
+			],
+			[
+				"sl",
+				"self\tparam"
+			],
+			[
+				"req",
+				"request\tinstance"
+			],
+			[
+				"r",
+				"run\tfunction"
+			],
+			[
+				"ra",
+				"rarr\tparam"
+			],
+			[
+				"me",
+				"merged\tstatement"
+			],
+			[
+				"mer",
+				"merged\tstatement"
+			],
+			[
+				"hep",
+				"helper\tstatement"
+			],
+			[
+				"he",
+				"helper\tstatement"
+			],
+			[
+				"help",
+				"helper\tparam"
+			],
+			[
+				"merge",
+				"mergesort\tfunction"
+			],
+			[
+				"min",
+				"minindex\tstatement"
+			],
+			[
+				"ope",
+				"operator\tstatement"
+			],
+			[
+				"oper",
+				"operand1\tstatement"
+			],
+			[
+				"eva",
+				"evaluate\tfunction"
+			],
+			[
+				"operand",
+				"operand_stack\tstatement"
+			],
+			[
+				"operator",
+				"operator_stack\tstatement"
+			],
+			[
+				"op",
+				"operand\tstatement"
+			],
+			[
+				"operan",
+				"operand_stack\tstatement"
+			],
+			[
+				"opr",
+				"operand1\tparam"
+			],
+			[
+				"opera",
+				"operator\tparam"
+			],
+			[
+				"len",
+				"length\tstatement"
+			],
+			[
+				"magic",
+				"magic_index_nd\tfunction"
+			],
+			[
+				"lef",
+				"left_val\tstatement"
+			],
+			[
+				"ma",
+				"magic_index_nd\tfunction"
+			],
+			[
+				"print",
+				"print_trie\tfunction"
+			],
+			[
+				"ke",
+				"key_char_int\tstatement"
+			],
+			[
+				"c",
+				"children\tstatement"
+			],
+			[
+				"trie",
+				"trie_root\tstatement"
+			],
+			[
+				"ro",
+				"robo_path\tfunction"
+			],
+			[
+				"one",
+				"ones_digit\tstatement"
+			],
+			[
+				"sum",
+				"sum_initial\tstatement"
+			],
+			[
+				"curr",
+				"currentl2\tstatement"
+			],
+			[
+				"cu",
+				"currentl2\tstatement"
+			],
+			[
+				"le",
+				"len_l2\tstatement"
+			],
+			[
+				"curre",
+				"currentl1\tstatement"
+			],
+			[
+				"allo",
+				"allow_promotion"
+			],
+			[
+				"pre",
+				"prev_color"
+			],
+			[
+				"all",
+				"allow_promotion"
+			],
+			[
+				"xpo",
+				"xpos"
+			],
+			[
+				"__pre",
+				"__predicted_date_time"
+			],
+			[
+				"v",
+				"__vehicleId"
+			],
+			[
+				"AC",
+				"ACTransitStopsObject"
+			],
+			[
+				"json",
+				"json_obj"
+			],
+			[
+				"deco",
+				"decodes"
+			],
+			[
+				"JSON",
+				"JSONDecoder"
+			],
+			[
+				"__s",
+				"__stopId"
+			],
+			[
+				"Lin",
+				"LinkedListNode"
+			],
+			[
+				"ne",
+				"nextNode"
+			],
+			[
+				"L",
+				"LinkedListNode"
+			],
+			[
+				"Link",
+				"LinkedList"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"__r",
+				"__right_child"
+			],
+			[
+				"tree",
+				"tree_nodes"
+			],
+			[
+				"__le",
+				"__left_child"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"inc",
+				"incoming_new_value"
+			],
+			[
+				"Linked",
+				"LinkedList"
+			],
+			[
+				"Lnked",
+				"LinkedListNode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "nosql_related_rough.sublime-project",
+			"settings":
+			{
+				"buffer_size": 254,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api_demo.py",
+			"settings":
+			{
+				"buffer_size": 4248,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: Dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: rek",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: te",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 217.0,
+		"history":
+		[
+			"dir(os)",
+			"help",
+			"help(os.path)",
+			"os.path('$VIRTUAL_ENV')",
+			"os.path()",
+			"os.path",
+			"dir(os)",
+			"dir()",
+			"import os",
+			"$VIRTUAL_ENV",
+			"dir(window)",
+			"dir(__package__)",
+			"dir()",
+			"sublime.packages_path()",
+			"sublime.packages_path",
+			"sublime.version()",
+			"sublime.version",
+			"dir(sublime)",
+			"dir()",
+			"python_interpreter_path",
+			"settings",
+			"exit()",
+			"dir(sys)",
+			"import sys",
+			"print()",
+			"print",
+			"import flask",
+			"python --version",
+			"dir()",
+			"ls",
+			"exit",
+			"clear()",
+			"clear",
+			"python3",
+			"exit",
+			"exit()",
+			"__author__",
+			"__name__",
+			"dir()",
+			"python3"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sidmishraw/Documents/workspace/nosql_related_rough"
+	],
+	"file_history":
+	[
+		"/Users/sidmishraw/Documents/workspace/nosql_related_rough/nyt_books_list.json",
+		"/Users/sidmishraw/Documents/workspace/nosql_related_rough/nyt_movie_critics.json",
+		"/Users/sidmishraw/Documents/workspace/nosql_related_rough/nyt_archives.json",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/__init__.py",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/Material Theme/Preferences.sublime-settings",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/templates/user_landing.html",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/main_driver.py",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/project_amc_theatre.sublime-project",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/ivysaur/lib/python3.5/site-packages/flask/__init__.py",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/core/bo.py",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/ivysaur/lib/python3.5/site-packages/itsdangerous.py",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/core/service.py",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/ivysaur/lib/python3.5/site-packages/flask/wrappers.py",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/ivysaur/lib/python3.5/site-packages/flask/templating.py",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/ivysaur/lib/python3.5/site-packages/flask/app.py",
+		"/Library/Python/2.7/site-packages/flask/__init__.py",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/env.anaconda",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/.gitignore",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/requirements.txt",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/README.md",
+		"/Library/Python/2.7/site-packages/werkzeug/local.py",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/testing_cci.py",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/hrank.py",
+		"/Users/sidmishraw/Documents/workspace/amc_rough_node/templates/login.html",
+		"/Users/sidmishraw/Documents/workspace/amc_rough_node/index.js",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/charmander/lib/python3.5/site-packages/pymining/seqmining.py",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/charmander/lib/python3.5/site-packages/pymining/itemmining.py",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/charmander/lib/python3.5/site-packages/pymining/compat.py",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/charmander/lib/python3.5/site-packages/pymining/assocrules.py",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/charmander/lib/python3.5/site-packages/pymining/__init__.py",
+		"/Users/sidmishraw/Documents/SJSU/ClassesSpring2017/CS_185_C_NoSQL/Notes.md",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/PythonLearning.sublime-project",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/terminal.glue",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/templates/index.html",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/templates/login.html",
+		"/Users/sidmishraw/Documents/workspace/PythonLearning/.gitignore",
+		"/Users/sidmishraw/Documents/SJSU/ClassesSpring2017/CS_267/notes.md",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/example_flask.py",
+		"/Users/sidmishraw/Documents/workspace/project_amc_theatre/core/__init__.py",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/kivy_1/build_kivy1.py",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/kivy_1/main.py",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/lists/lists.py",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/example.py",
+		"/Users/sidmishraw/AndroidStudio/ProjectOrion/.gitignore",
+		"/Users/sidmishraw/Documents/workspace/pychess_sid_1/pychess1/pychess1/gameplay.py",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/sidmishraw/Documents/workspace/pychess_sid_1/pychess1/pychess1/__init__.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/actransit_app/actransit_example.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/webbrowser.py",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/actransit_app/ac_transit_api_consumer/.gitignore",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/sidmishraw/Documents/workspace/pychess_sid_1/pychess1/.editorconfig",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/hackerrank_python_exercises.py",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/trees/trees.py",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/README.md",
+		"/Users/sidmishraw/Documents/workspace/pychess_sid_1/pychess1/setup.py",
+		"/Users/sidmishraw/Documents/workspace/pychess_sid_1/pychess1/README.rst",
+		"/Users/sidmishraw/Documents/workspace/pychess_sid_1/pychess1/HISTORY.rst",
+		"/Users/sidmishraw/Documents/workspace/pychess_sid_1/pychess1/pychess1/pychess1.py",
+		"/Users/sidmishraw/Documents/workspace/pychess_sid_1/pychess1/docs/conf.py",
+		"/Users/sidmishraw/Documents/Databases/mysql-connector-python-2.1.5/setup.py",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/actransit_app/ac_transit_api_consumer/setup.py",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/actransit_app/ac_transit_api_consumer/ac_transit_api_consumer/ac_transit_api_consumer.py",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/actransit_app/ac_transit_api_consumer/ac_transit_api_consumer/__init__.py",
+		"/Users/sidmishraw/Documents/workspace/jsstuffv1/node_start.js",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/User/Tern.sublime-settings",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime/Default.sublime-keymap",
+		"/Users/sidmishraw/Documents/Books/js mdn tutorials/gallery-start/style.css",
+		"/Users/sidmishraw/Documents/Books/js mdn tutorials/gallery-start/main.js",
+		"/Users/sidmishraw/Documents/Books/js mdn tutorials/gallery-start/index.html",
+		"/usr/local/lib/python3.5/site-packages/pip/index.py",
+		"/usr/local/lib/python3.5/site-packages/pip/exceptions.py",
+		"/usr/local/lib/python3.5/site-packages/pip/download.py",
+		"/usr/local/lib/python3.5/site-packages/pip/locations.py",
+		"/usr/local/lib/python3.5/site-packages/pip/__init__.py",
+		"/usr/local/bin/pip3.5",
+		"/usr/local/lib/python3.5/site-packages/pip/__main__.py",
+		"/Users/sidmishraw/Documents/workspace/java_ds_implementations/java_points.txt",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/lists/__init__.py",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/trees/__init__.py",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/test_trees_module.py",
+		"/Users/sidmishraw/Documents/workspace/sublimetext_templates/header_templates/Python.tmpl",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/README.md",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/lists/__pycache__/lists.cpython-35.pyc",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/lists/__pycache__/__init__.cpython-35.pyc",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/CppRevisited/src/translationunits/lists.cpp",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/CppRevisited/src/headers/lists.h",
+		"/Users/sidmishraw/Documents/workspace/sublimetext_templates/header_templates/HeaderFile.tmpl",
+		"/Users/sidmishraw/Documents/workspace/sublimetext_templates/header_templates/C++.tmpl",
+		"/Users/sidmishraw/Documents/workspace/sublimetext_templates/body_templates/HeaderFile.tmpl",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/BackToCpp/BackToCpp/main.cpp",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/BackToCpp/BackToCpp/lists.h",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/BackToCpp/README.md",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/BackToCpp/.gitignore",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/Back_to_cpp/Back_to_cpp/headers/header1.h",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/Back_to_cpp/Back_to_cpp/main.cpp",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/Back_to_cpp/Back_to_cpp/headers/abc.h",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/Users/sidmishraw/Documents/workspace/header_templates/C++.tmpl",
+		"/Users/sidmishraw/Library/Application Support/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+		"/Users/sidmishraw/Documents/workspace/cpp_stuff1/Back_to_cpp/Back_to_cpp/headers/header2test.h",
+		"/Users/sidmishraw/Documents/workspace/pythonstuffv1/hackerrank_graphs.py",
+		"/Users/sidmishraw/Documents/workspace/Python_Spark_project1/example1.py",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/templates/lists.html",
+		"/Users/sidmishraw/Documents/workspace/Python_Spark_project1/pyspark_notes.txt",
+		"/Users/sidmishraw/Documents/SJSU/Classes Fall 2016/CS 185-C Solving BigData Problems/spark-2.0.2-bin-hadoop2.7/conf/spark-env.sh",
+		"/Users/sidmishraw/Documents/SJSU/Classes Fall 2016/CS 185-C Solving BigData Problems/spark-2.0.2-bin-hadoop2.7/examples/src/main/python/kmeans.py",
+		"/Users/sidmishraw/Documents/SJSU/Classes Fall 2016/CS 185-C Solving BigData Problems/spark-2.0.2-bin-hadoop2.7/examples/src/main/python/wordcount.py",
+		"/Users/sidmishraw/Documents/SJSU/Classes Fall 2016/CS 185-C Solving BigData Problems/spark-2.0.2-bin-hadoop2.7/conf/spark-env.sh.template",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/ivysaur/lib/python3.5/site-packages/jinja2/utils.py",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/templates/index.html",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/.gitignore",
+		"/Users/sidmishraw/Documents/workspace/Python_DS_Suite/requirements.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"critics",
+			"request",
+			"Flask",
+			"flask",
+			"Flask",
+			"flask",
+			"is_complete",
+			"path",
+			"temp",
+			"MyQueue",
+			"*",
+			"\n*",
+			"interpreter",
+			"python interpreter",
+			"A",
+			"a_dict",
+			"b_dict",
+			"element[0]",
+			"hashvalue",
+			"left",
+			")",
+			"int(",
+			"false",
+			"count_ways",
+			"space",
+			"spaces",
+			"pep",
+			"interpreter",
+			"return",
+			"ACTransitStop",
+			"ACTransitStopsObject",
+			"option",
+			"alt",
+			"opt",
+			"init",
+			"50",
+			")\n",
+			"2",
+			"group",
+			"n",
+			"k",
+			"insert",
+			"transactions[i]",
+			"spend",
+			"transactions[i]",
+			"0",
+			"counting_array",
+			"median_count_sort",
+			"median_floor",
+			"array",
+			"  \n",
+			"1",
+			"key_element",
+			"pivot_index",
+			"j",
+			".(",
+			"       ",
+			"[]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "nosql_related_rough.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								3,
+								3,
+								20,
+								15,
+								0,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api_demo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4124,
+								4124
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								3,
+								3,
+								20,
+								33,
+								26,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"rulers":
+							[
+								100
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 131.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nosql_related_rough.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"project_amc_theatre.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

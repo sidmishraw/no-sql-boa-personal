@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+  "settings":
+        {
+                "python_interpreter": "/Users/sidmishraw/Documents/workspace/nosql_related_rough/charmander/bin/python",
+                "auto_python_builder_enabled": false
+        }
+}
